@@ -49,6 +49,3 @@ form.addEventListener('submit', onFormSubmit);
 
         localStorage.removeItem(STORAGE_KEY);
     }
-
-
-    
