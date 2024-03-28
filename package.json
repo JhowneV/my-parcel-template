@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "my-parcel-template",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://JhowneV.github.io/my-parcel-template",
@@ -9,16 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/JhowneV/my-parcel-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Joan Viray <virayjoan1985@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/JhowneV/my-parcel-template/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "@vimeo/player": "^2.22.0",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.14.2"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
